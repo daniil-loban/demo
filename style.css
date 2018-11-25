@@ -247,7 +247,10 @@
 .author-clip {
   white-space: nowrap;
   overflow: hidden;
-  text-overflow: ellipsis; }
+  text-overflow: ellipsis;
+  width: 180px;
+  text-align: center;
+  margin: 0 auto; }
 
 .tooltip {
   min-width: 100px;
