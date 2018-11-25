@@ -240,9 +240,11 @@
 
 .description-clip {
   height: 100px;
-  word-break: break-all;
   font-style: italic;
-  overflow: hidden; }
+  overflow: hidden;
+  text-align: justify;
+  padding-left: 15px;
+  padding-right: 15px; }
 
 .author-clip {
   white-space: nowrap;
