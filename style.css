@@ -301,15 +301,15 @@
   border-radius: 50%;
   border-style: solid;
   border-color: white;
-  color: #cb3131 #cb3131;
+  color: #cb3131;
   background-color: white;
   cursor: pointer; }
   .paginator-item:hover {
     font-weight: bold;
-    color: #cb3131 #cb3131;
-    border: 2px solid #cb3131 #cb3131; }
+    color: #cb3131;
+    border: 2px solid #cb3131; }
   .paginator-item.current {
-    background-color: #cb3131 #cb3131;
+    background-color: #cb3131;
     font-weight: bold;
     color: white; }
 
